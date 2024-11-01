@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import { CssBaseline } from "@mui/material";
-//import Footer from "./components/Footer/Footer";
+import Footer from "./components/Footer/Footer";
 import DownloadApp from "./components/Sections/DownloadApp/DownloadApp";
 
 function App() {
@@ -9,6 +9,7 @@ function App() {
       <CssBaseline />
       <Outlet />
       <DownloadApp />
+      <Footer />
      
     </div>
   );
