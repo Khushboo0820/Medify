@@ -2,11 +2,11 @@
 import { Box, Typography } from "@mui/material";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import img1 from "../../../assets/lesley.png";
-import img2 from "../../../assets/ahmad.png";
-import img3 from "../../../assets/heena.png";
-import img4 from "../../../assets/ankur.png";
-import img5 from "../../../assets/ahmad-stevens.png";
+import img1 from "../../../assests/lesley.png";
+import img2 from "../../../assests/ahmad.png";
+import img3 from "../../../assests/heena.png";
+import img4 from "../../../assests/ankur.png";
+import img5 from "../../../assests/ahmad-stevens.png";
 import SpecialistCard from "./SpecialistCard";
 import { Autoplay, Pagination } from "swiper/modules";
 

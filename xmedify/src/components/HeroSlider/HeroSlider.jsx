@@ -1,7 +1,7 @@
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import img from "../../assets/home.webp";
+import img from "../../assests/home.webp";
 import { Box, Stack, Typography, Button } from "@mui/material";
 import { Link } from "react-router-dom";
 

@@ -1,9 +1,9 @@
 import { Box, Grid, Typography } from "@mui/material";
 import doctorIcon from "../../assests/Doctor.png";
 import pharmacyIcon from "../../assests/Drugstore.png";
-import hospitalIcon from "../../assets/Hospital.png";
-import capsuleIcon from "../../assets/Capsule.png";
-import ambulanceIcon from"../../assests.Ambulance.png";
+import hospitalIcon from "../../assests/Hospital.png";
+import capsuleIcon from "../../assests/Capsule.png";
+import ambulanceIcon from "../../assests/Ambulance.png";
 import IconCard from "../IconCard/IconCard";
 import { useMemo } from "react";
 
