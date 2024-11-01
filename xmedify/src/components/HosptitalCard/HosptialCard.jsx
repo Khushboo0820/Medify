@@ -1,6 +1,6 @@
-import icon from "../../assets/hospitalicon.png";
+import icon from "../../assests/hospitalicon.png";
 import { Box, Button, Chip, Divider, Stack, Typography } from "@mui/material";
-import thumb from "../../assets/thumbsup.png";
+import thumb from "../../assests/thumbsup.png";
 import Calendar from "../Calender/Calender";
 import { useState } from "react";
 import { format } from "date-fns";
